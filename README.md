@@ -16,6 +16,6 @@ My discord server: [techified.](https://discord.gg/qsFdvFUMeY "this is a great s
 My discord: **rax**#0001
 <br>
 <br>
-I am currently learning **Go**. I'm not very good at it. 
+I am currently learning **JavaScript / Node**. I'm not very good at it. 
 <br>
-Feel free to commit to my Go projects or reach out to help me.
+Feel free to commit to my projects or reach out to help/teach me.
