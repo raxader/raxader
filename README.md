@@ -13,9 +13,9 @@ My website: [raxader.xyz](http://raxader.xyz "secret message: I hate you")
 <br>
 My discord server: [techified.](https://discord.gg/qsFdvFUMeY "this is a great server")
 <br>
-My discord: **rax**#0001
+My discord: **rax**#0002
 <br>
 <br>
-I am currently learning **JavaScript / Node**. I'm not very good at it. 
+I am currently learning **Golang**. I'm not very good at it. 
 <br>
 Feel free to commit to my projects or reach out to help/teach me.
