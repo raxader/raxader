@@ -9,7 +9,7 @@ He/him
 <br>
 Ways to contact: 
 <br>
-My website: [salyut.one/~rax](http://salyut.one/~rax "secret message: I hate you")
+My website: [salyut.one/~rax](https://salyut.one/~rax "secret message: I hate you")
 <br>
 My discord server: [techified.](https://discord.gg/qsFdvFUMeY "this is a great server")
 <br>
