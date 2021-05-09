@@ -1,6 +1,6 @@
 # HEY
 ### My name is rax.
-Nice to meet you. 
+(not) Nice to meet you. 
 <br>
 He/him
 <br>
@@ -19,3 +19,6 @@ My discord: **rax**#0001
 I am currently learning **Golang**. I'm not very good at it. 
 <br>
 Feel free to commit to my projects or reach out to help/teach me.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raxader&count_private=true&theme=tokyonight&showicons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raxader&langs_count=5&theme=tokyonight)]()
