@@ -11,7 +11,7 @@ Ways to contact:
 <br>
 My website: [salyut.one/~rax](https://salyut.one/~rax "secret message: I hate you")
 <br>
-My discord server: [techified.](https://discord.gg/techifiediscurrentlydefunct.pleasecomebacklater. "this is a great server")
+My discord server: [techified.](https://discord.gg/SmKMVX4Rsy "this is a great server")
 <br>
 My discord: **rax**#0001
 <br>
