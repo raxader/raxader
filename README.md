@@ -1,5 +1,5 @@
 # HEY
-### My name is rax.
+### My name is nick.
 (not) Nice to meet you. 
 <br>
 He/him
@@ -13,7 +13,8 @@ My website: [salyut.one/~rax](https://salyut.one/~rax "secret message: I hate yo
 <br>
 My discord server: [techified.](https://discord.gg/SmKMVX4Rsy "this is a great server")
 <br>
-My discord: **rax**#0001
+My discord: **nickdotzip**#0001
+My email: nickdotzip@pm.me
 <br>
 <br>
 I am currently learning **Golang**. I'm not very good at it. 
