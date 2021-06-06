@@ -22,6 +22,6 @@ I am currently learning **Golang**. I'm not very good at it.
 <br>
 Feel free to commit to my projects or reach out to help/teach me.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raxader&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nickdotzip&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raxader&langs_count=5&theme=tokyonight)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdotzip&langs_count=5&theme=tokyonight)]()
