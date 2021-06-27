@@ -1,8 +1,6 @@
 # HEY
 ### My name is nick.
-(not) Nice to meet you. I'm kinda bad at coding.
-<br>
-Use any pronouns for me.
+Enjoyer of garfield, terrible programmer.
 <br>
 <br>
 Ways to contact:
@@ -10,7 +8,7 @@ Ways to contact:
 My email: **nickdotzip**@pm.me
 <br>
 <br>
-I am currently learning **i don't know what i'm learning**. I'm not very good at it. 
+I am currently learning **nothing**.
 <br>
 Feel free to commit to my projects or reach out to help/teach me, or collaborate with me.
 
