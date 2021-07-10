@@ -3,11 +3,7 @@
 Enjoyer of garfield, terrible programmer.
 <br>
 <br>
-Ways to contact:
-<br>
-My email: **nickdotzip**@pm.me
-<br>
-Further enquiries: [My Website](https://dotzip.xyz)
+Enquiries: [My Website](https://dotzip.xyz)
 <br>
 <br>
 I am currently learning **nothing**.
